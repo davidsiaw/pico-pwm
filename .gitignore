@@ -1,0 +1,4 @@
+cmake/
+build/
+test_obj/
+.Makefile.swp
